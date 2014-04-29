@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    <!-- Values that do not change on different screen sizes -->
+    <dimen name="padding_edittext">10dp</dimen>
+    <dimen name="map_margin">7dp</dimen>
+    
+    <!-- Values that do change on different screen sizes. Make sure these values are there in values folder. -->
+    
+</resources>
